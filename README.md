@@ -1,2 +1,2 @@
 # webflyx
-I'm a dumby dinko head!
+Boot'dev's Learn Git 1 starter repo.
